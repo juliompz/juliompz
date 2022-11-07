@@ -1,5 +1,4 @@
-## Hi, i am Júlio César
-- 👦 about me: 
+## Hi, i am Júlio César 
 - Brazilian developer
 - 18 years old
 - 🔭 Developer in development
