@@ -2,8 +2,7 @@
 - Brazilian developer
 - 19 years old
 - 🔭 Developer in development.
-- ✍ 🇧🇷  Cursando ensino superior de Análise e Desenvolvimento de Sistemas.
-- ✍ 🇺🇸  Studying at the Faculty of Systems Analysis and Development.
+- ✍ 🇧🇷 Superior em Análise e Desenvolvimento de Sistemas.
 - 📖 Web-development: HTML, CSS - Python, Django, JavaScript - ReactJs
 - 📖 Back-end devolpment in JAVA w Spring Boot, Django Rest Framework.
  
