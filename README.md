@@ -1,6 +1,6 @@
 <!-- Banner de apresentação -->
 <h1 align="center">👋 Olá, eu sou o Júlio César!</h1>
-<p align="center">Desenvolvedor Fullstack • Especialista em TypeScript, React, Next.js e NestJS</p>
+<p align="center">Desenvolvedor Fullstack • TypeScript, React, Next.js, React Native e NestJS</p>
 
 <!-- Redes Sociais -->
 <p align="center">
